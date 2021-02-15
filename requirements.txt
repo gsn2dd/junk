@@ -28,8 +28,8 @@ defusedxml==0.6.0
 dnspython==2.1.0
 docker-pycreds==0.4.0
 entrypoints==0.3
-fastai @ file:///workspace/fastai
-fastcore @ file:///workspace/fastcore
+fastai
+fastcore
 fastprogress==1.0.0
 filelock==3.0.12
 future==0.18.2
@@ -40,7 +40,7 @@ google-auth==1.26.1
 google-auth-oauthlib==0.4.2
 graphviz==0.16
 grpcio==1.35.0
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna
 imageio==2.9.0
 imgaug==0.4.0
 importlib-metadata==3.4.0
