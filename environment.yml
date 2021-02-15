@@ -1,0 +1,7 @@
+name: fastai
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - fastai
+prefix: C:\Users\PC\anaconda3\envs\fastai
