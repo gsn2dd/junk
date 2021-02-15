@@ -19,7 +19,6 @@ chardet
 click==7.1.2
 conda==4.3.16
 conda-build==2.1.5
-conda-package-handling
 configparser==5.0.1
 cryptography
 cycler==0.10.0
