@@ -3,7 +3,7 @@ albumentations==0.5.2
 argon2-cffi==20.1.0
 attrs==20.3.0
 backcall==0.2.0
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+beautifulsoup4
 bleach==3.3.0
 blis==0.7.4
 bravado==11.0.2
