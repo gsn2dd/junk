@@ -14,14 +14,14 @@ captum==0.3.1
 catalogue==1.0.0
 catalyst==20.12
 certifi==2020.12.5
-cffi @ file:///tmp/build/80754af9/cffi_1606255099073/work
-chardet @ file:///tmp/build/80754af9/chardet_1605303159953/work
+cffi
+chardet
 click==7.1.2
 conda==4.3.16
 conda-build==2.1.5
-conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018138503/work
+conda-package-handling
 configparser==5.0.1
-cryptography @ file:///tmp/build/80754af9/cryptography_1607635305226/work
+cryptography
 cycler==0.10.0
 cymem==2.0.5
 decorator==4.4.2
