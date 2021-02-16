@@ -9,7 +9,6 @@ dependencies:
   - pyyaml
   - ipython
   - pytorch
-  - torchtext
   - torchvision
   - cudatoolkit=11.0
 prefix: /opt/conda
