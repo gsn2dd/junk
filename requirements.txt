@@ -66,7 +66,7 @@ Markdown==3.3.3
 MarkupSafe
 matplotlib==3.3.4
 mistune==0.8.4
-mkl-fft @ https://github.com/gsn2dd/junk/mkl_fft-1.0.6-cp36-cp36m-manylinux1_x86_64.whl
+mkl-fft @ file://mkl_fft-1.0.6-cp36-cp36m-manylinux1_x86_64.whl
 mkl-service==2.3.0
 monotonic==1.5
 msgpack==1.0.2
