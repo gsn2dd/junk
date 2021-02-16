@@ -142,6 +142,7 @@ traitlets
 typer==0.3.2
 typing-extensions
 urllib3
+voila
 wandb==0.10.19
 wasabi==0.8.2
 wcwidth
