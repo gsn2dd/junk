@@ -42,7 +42,6 @@ imageio==2.9.0
 imgaug==0.4.0
 ipython 
 ipython-genutils 
-ipywidgets==7.6.3
 jedi
 Jinja2==2.11.2
 joblib==1.0.1
@@ -72,9 +71,8 @@ olefile==0.46
 opencv-python==4.5.1.48
 opencv-python-headless==4.5.1.48
 pandas==1.2.2
-pandocfilters==1.4.3
-parso==0.7.0
 pathtools==0.1.2
+parso==0.7.0
 pathy==0.3.6
 pexpect
 pickleshare
@@ -95,10 +93,8 @@ pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydantic==1.7.3
 pydicom==2.1.2
 Pygments @ file:///tmp/build/80754af9/pygments_1610565767015/work
-PyJWT==2.0.1
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
 pyparsing==2.4.7
-pyrsistent==0.17.3
 PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
 python-dateutil==2.8.1
 python-etcd==0.4.5
