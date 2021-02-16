@@ -66,6 +66,7 @@ Markdown==3.3.3
 MarkupSafe
 matplotlib==3.3.4
 mistune==0.8.4
+mkl-fft @ https://github.com/gsn2dd/junk
 mkl-service==2.3.0
 monotonic==1.5
 msgpack==1.0.2
@@ -157,7 +158,6 @@ torchelastic==0.2.0
 torchtext==0.8.1
 torchvision==0.8.2
 tornado==6.1
-mkl-fft @ git+https://github.com/gsn2dd/junk
 tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
 typer==0.3.2
