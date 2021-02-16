@@ -11,4 +11,8 @@ dependencies:
   - pytorch
   - torchvision
   - cudatoolkit=11.0
-prefix: /opt/conda
+  - pip
+    -pip:
+    - fastai
+    - fastcore
+    - fastprogress==1.0.0
